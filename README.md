@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-# 💫 About Me:
-Passionate about technology, I embarked on my tech journey as curious newbie and have grown into an experienced developer. I'm skilled in Front-end, Back-end and Cloud Engineering. My drive lies in using technology to create impactful solutions, always with the aim of learning and Improving.
+# About Me:
+Being in tech for the past two years has shown me that stepping out of my comfort zone isn’t just necessary, it’s where all the fun is. I’m a Backend Engineer and an aspiring Data Scientist, obsessed with making things work behind the scenes. I love breaking down complex problems, making sense of data, and building scalable systems that don’t just work but flow.
+I thrive in spaces where I can learn, break things (responsibly, of course), and build solutions that actually make an Impact. If you're looking for someone who’s curious, adaptable, and always up for a challenge, let’s connect!
 
 
 ## 🌐 Socials:
